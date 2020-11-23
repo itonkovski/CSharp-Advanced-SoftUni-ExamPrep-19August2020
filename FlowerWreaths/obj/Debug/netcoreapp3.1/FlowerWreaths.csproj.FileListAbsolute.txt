@@ -1,0 +1,11 @@
+/Users/ivaylotonkovski/Projects/CSharp-Advanced-SoftUni-ExamPrep/FlowerWreaths/bin/Debug/netcoreapp3.1/FlowerWreaths
+/Users/ivaylotonkovski/Projects/CSharp-Advanced-SoftUni-ExamPrep/FlowerWreaths/bin/Debug/netcoreapp3.1/FlowerWreaths.deps.json
+/Users/ivaylotonkovski/Projects/CSharp-Advanced-SoftUni-ExamPrep/FlowerWreaths/bin/Debug/netcoreapp3.1/FlowerWreaths.runtimeconfig.json
+/Users/ivaylotonkovski/Projects/CSharp-Advanced-SoftUni-ExamPrep/FlowerWreaths/bin/Debug/netcoreapp3.1/FlowerWreaths.runtimeconfig.dev.json
+/Users/ivaylotonkovski/Projects/CSharp-Advanced-SoftUni-ExamPrep/FlowerWreaths/bin/Debug/netcoreapp3.1/FlowerWreaths.dll
+/Users/ivaylotonkovski/Projects/CSharp-Advanced-SoftUni-ExamPrep/FlowerWreaths/bin/Debug/netcoreapp3.1/FlowerWreaths.pdb
+/Users/ivaylotonkovski/Projects/CSharp-Advanced-SoftUni-ExamPrep/FlowerWreaths/obj/Debug/netcoreapp3.1/FlowerWreaths.csprojAssemblyReference.cache
+/Users/ivaylotonkovski/Projects/CSharp-Advanced-SoftUni-ExamPrep/FlowerWreaths/obj/Debug/netcoreapp3.1/FlowerWreaths.AssemblyInfoInputs.cache
+/Users/ivaylotonkovski/Projects/CSharp-Advanced-SoftUni-ExamPrep/FlowerWreaths/obj/Debug/netcoreapp3.1/FlowerWreaths.AssemblyInfo.cs
+/Users/ivaylotonkovski/Projects/CSharp-Advanced-SoftUni-ExamPrep/FlowerWreaths/obj/Debug/netcoreapp3.1/FlowerWreaths.dll
+/Users/ivaylotonkovski/Projects/CSharp-Advanced-SoftUni-ExamPrep/FlowerWreaths/obj/Debug/netcoreapp3.1/FlowerWreaths.pdb
