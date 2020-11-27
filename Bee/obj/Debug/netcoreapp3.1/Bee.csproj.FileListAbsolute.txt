@@ -1,0 +1,11 @@
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-19August2020/Bee/bin/Debug/netcoreapp3.1/Bee
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-19August2020/Bee/bin/Debug/netcoreapp3.1/Bee.deps.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-19August2020/Bee/bin/Debug/netcoreapp3.1/Bee.runtimeconfig.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-19August2020/Bee/bin/Debug/netcoreapp3.1/Bee.runtimeconfig.dev.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-19August2020/Bee/bin/Debug/netcoreapp3.1/Bee.dll
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-19August2020/Bee/bin/Debug/netcoreapp3.1/Bee.pdb
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-19August2020/Bee/obj/Debug/netcoreapp3.1/Bee.csprojAssemblyReference.cache
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-19August2020/Bee/obj/Debug/netcoreapp3.1/Bee.AssemblyInfoInputs.cache
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-19August2020/Bee/obj/Debug/netcoreapp3.1/Bee.AssemblyInfo.cs
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-19August2020/Bee/obj/Debug/netcoreapp3.1/Bee.dll
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-19August2020/Bee/obj/Debug/netcoreapp3.1/Bee.pdb
