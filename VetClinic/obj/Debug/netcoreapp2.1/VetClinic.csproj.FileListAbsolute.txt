@@ -1,0 +1,10 @@
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-19August2020/VetClinic/bin/Debug/netcoreapp2.1/VetClinic.deps.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-19August2020/VetClinic/bin/Debug/netcoreapp2.1/VetClinic.runtimeconfig.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-19August2020/VetClinic/bin/Debug/netcoreapp2.1/VetClinic.runtimeconfig.dev.json
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-19August2020/VetClinic/bin/Debug/netcoreapp2.1/VetClinic.dll
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-19August2020/VetClinic/bin/Debug/netcoreapp2.1/VetClinic.pdb
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-19August2020/VetClinic/obj/Debug/netcoreapp2.1/VetClinic.csprojAssemblyReference.cache
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-19August2020/VetClinic/obj/Debug/netcoreapp2.1/VetClinic.AssemblyInfoInputs.cache
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-19August2020/VetClinic/obj/Debug/netcoreapp2.1/VetClinic.AssemblyInfo.cs
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-19August2020/VetClinic/obj/Debug/netcoreapp2.1/VetClinic.dll
+/Users/ivaylotonkovski/Documents/GitHub/CSharp-Advanced-SoftUni-ExamPrep-19August2020/VetClinic/obj/Debug/netcoreapp2.1/VetClinic.pdb

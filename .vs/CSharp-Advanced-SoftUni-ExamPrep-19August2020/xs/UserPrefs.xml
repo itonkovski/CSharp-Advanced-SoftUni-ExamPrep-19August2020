@@ -1,23 +1,23 @@
-﻿<Properties StartupConfiguration="{BBA3163C-636D-4EE5-99E2-FA4B6F71A2E4}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="../CSharp-Advanced-SoftUni-ExamPrep-28June2020/Snake/Program.cs">
+﻿<Properties StartupConfiguration="{33C276CD-AB40-4BE5-BB64-A0A8834B43EE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="VetClinic/Clinic.cs">
     <Files>
-      <File FileName="Bee/Program.cs" Line="16" Column="10" />
-      <File FileName="../CSharp-Advanced-SoftUni-ExamPrep-22feb2020/ReVoltNewAgain/Program.cs" Line="1" Column="1" />
-      <File FileName="../CSharp-Advanced-SoftUni-ExamPrep-28June2020/Snake/Program.cs" Line="1" Column="1" />
+      <File FileName="VetClinic/Program.cs" Line="7" Column="12" />
+      <File FileName="VetClinic/Pet.cs" Line="26" Column="43" />
+      <File FileName="VetClinic/Clinic.cs" Line="6" Column="17" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CSharp-Advanced-SoftUni-ExamPrep-19August2020" expanded="True">
-            <Node name="Bee" expanded="True">
-              <Node name="Program.cs" selected="True" />
+            <Node name="VetClinic" expanded="True">
+              <Node name="Clinic.cs" selected="True" />
             </Node>
-            <Node name="FlowerWreaths" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.VetClinic FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.FlowerWreaths PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -27,5 +27,5 @@
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Bee FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Bee PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
